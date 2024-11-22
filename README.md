@@ -1,5 +1,11 @@
 # Mechanical Engineer
 
+## About me	
+Hey there! I'm Shixin, a robotics engineer who loves making machines do cool stuff. It all started when my dad brought home our first robot vacuum – watching it navigate around furniture got me hooked on the idea of building smarter robots.
+Outside of tinkering with robots, I'm an avid climber who enjoys challenging myself on both indoor and outdoor routes. You might also find me in the kitchen, experimenting with new recipes (yes, sometimes they turn out Instagram-worthy, and sometimes... well, let's just say I'm still learning 😄). Between climbing sessions and cooking adventures, I keep up with my fitness routine to stay energized.
+When it's time to unwind, I dive into video games to explore new virtual worlds. And speaking of worlds, 'Back to the Future' is my all-time favorite sci-fi movie – who wouldn't want a time-traveling DeLorean? Maybe that's my next project... just kidding! (Or am I? 🤔)
+Let's connect and chat about robots, climbing, gaming, or your favorite recipes!
+
 ## Education						       		
 - M.S., Mechanical Engineering	| Carnegie Mellon University (_Aug 2023 to present_)	 			        		
 - B.S., System Engineering & Design | University of Illinois at Urbana Champaign (_Aug 2018 to May 2023_)
