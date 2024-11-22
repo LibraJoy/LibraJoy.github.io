@@ -20,6 +20,8 @@
 
 Led the development of an autonomous tracking system for construction sites using LiDAR-enabled footed robots, enabling real-time exploration and mapping. Integrated a pre-trained YOLO model to detect and mark window frames by fusing camera and LiDAR data for accurate localization. Leveraged ROS for real-time communication to record point cloud maps and bounding boxes, and implemented a progress-tracking feature to monitor and report on installation stages, enhancing project oversight and precision.
 
+![Robot running in construction cite detect window frame](/assets/img/window_frame.jpeg)
+
 ### Design of Golf Ball Collecting Robot and Its Control Strategies
 Designed and developed an autonomous golf ball-collecting robot with a C++-based navigation system, utilizing the A* algorithm for efficient path planning by segmenting the floor and avoiding obstacles. Performed an in-depth analysis of the robot's kinematics and motion control to optimize performance, and validated the robot's robustness and control algorithms through extensive experimentation, ensuring reliable and practical operation.
 
@@ -27,4 +29,10 @@ Designed and developed an autonomous golf ball-collecting robot with a C++-based
 
 Conducted an in-depth analysis of workforce tasks and operational processes, transforming raw data into actionable KPI metrics for effective management. Developed regression-based algorithms and custom queries to monitor and assess order fulfillment performance, providing insights into process health. Built an interactive Power BI dashboard to visually track employee workflow and performance, streamlining oversight and decision-making.
 
-### [CV](https://drive.google.com/file/d/10xVnKcDR0KVW9Z-nGKRKBPwRtFaM1yND/view?usp=drive_link)
+### Wheel Loader Path Planning with Terrain Traversability
+
+Navigating a simplified wheel loader model through a series of points—starting, digging, and loading—inside a custom-simulated environment. While disregarding the robot's kinematics and articulated joints, the simulation is focusing on achieving precise robot poses at critical junctures using Dubin’s curves. The integrated RRT*(Rapidly-exploring Random Trees Star) algorithm is facilitating the exploration and generation of an optimal curved path in an unknown space with traversable and non-traversable region. Preliminary results are demonstrating the potential of combining these techniques to enhance the efficiency and accuracy of autonomous path planning in complex environments.
+
+![Wheel loader running in simulator](/assets/img/wheel_loader.jpeg)
+
+### [CV](https://drive.google.com/file/d/10xVnKcDR0KVW9Z-nGKRKBPwRtFaM1yND/view?usp=sharing)
