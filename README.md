@@ -1,8 +1,8 @@
 # Mechanical Engineer
 
 ## Education						       		
-- M.S., Physics	| Carnegie Mellon University (_Aug 2023 to present_)	 			        		
-- B.S., Physics | University of Illinois at Urbana Champaign (_Aug 2018 to May 2023_)
+- M.S., Mechanical Engineering	| Carnegie Mellon University (_Aug 2023 to present_)	 			        		
+- B.S., System Engineering & Design | University of Illinois at Urbana Champaign (_Aug 2018 to May 2023_)
 
 ## Work Experience
 **Planning Algorithm Engineer Intern @ AutoX, Inc. (_05/2023 - 08/2023_)**
